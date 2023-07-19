@@ -25,7 +25,7 @@ a{
 }
 
 .main-left{
-    width: 60%;
+    width: 53%;
     padding-top: 20px;
 }
 
@@ -35,8 +35,8 @@ a{
 
 .register-form, .switch-page{
     background-color: #fff;
-    border:1px solid rgb(217, 217, 217);
-    padding:40px;
+    padding:20px;
+    box-shadow: 0 0 10px 0 rgba(149, 209, 248, 0.493);
 }
 
 .register-form form input{
@@ -59,7 +59,7 @@ a{
 }
 
 .register-form p:first-of-type{
-    font-size: 19px;
+    font-size: 17px;
     font-weight: bold;
     color: rgb(172, 172, 172);
 }
